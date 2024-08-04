@@ -1,0 +1,34 @@
+{
+    "1": {
+        "id": 5,
+        "todo": "Chelsey Dietrich",
+        "date": "Kamren",
+        "status": "Lucio_Hettinger@annie.ca",
+        "kategorie": "cool",
+        "user": "tung"
+    },
+    "4": {
+        "todo": "123",
+        "date": "2024-08-22",
+        "status": "nicht erledigt",
+        "kategorie": "",
+        "id": 1868685,
+        "user": "renee"
+    },
+    "5": {
+        "todo": "12312332",
+        "date": "2024-08-17",
+        "status": "nicht erledigt",
+        "kategorie": "",
+        "id": 19072260,
+        "user": "tung"
+    },
+    "6": {
+        "todo": "",
+        "date": "2024-08-17",
+        "status": "nicht erledigt",
+        "kategorie": "1234",
+        "id": 12439906,
+        "user": "renee"
+    }
+}
