@@ -6,7 +6,6 @@ if (isset($_SESSION['username']) && isset($_SESSION['id'])) {
     $username = $_SESSION['username'];
     $todos = getTodo();
 
-    // Filter Todos by current user
     $userTodos = array_filter($todos, function($todo) use ($username) {
         return isset($todo['user']) && $todo['user'] == $username;
     });
